@@ -1,5 +1,5 @@
 # form-to-json
 
-web:
+See example: 
 
-[See example: https://lfrakie.github.io/form-to-json](https://lfrakie.github.io/form-to-json)
+[https://lfrakie.github.io/form-to-json](https://lfrakie.github.io/form-to-json)
