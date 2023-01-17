@@ -2,4 +2,4 @@
 
 web:
 
-(Ver)[https://lfrakie.github.io/form-to-json/]
+[Ver](https://lfrakie.github.io/form-to-json)
